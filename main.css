@@ -500,7 +500,7 @@ header {
 .overlay-menu.show {
   opacity: 1;
   visibility: visible;
-  cursor: url(../images/cursor-white.png), auto;
+  cursor: url(..https://trxizaz.github.io/cush/cursor-white.png), auto;
 }
 
 .pilling-page .overlay-menu .overlay-menu-list .list-group-item {
@@ -631,17 +631,17 @@ header {
           HERO-01
 -------------------------*/
 .hero-01 .hero-item1 {
-  background: url("../images/slider-01.jpg") no-repeat center;
+  background: url("..https://trxizaz.github.io/cush/slider-01.jpg") no-repeat center;
   box-shadow: inset 0 0 0 2000px rgba(250, 250, 250, 0.9);
 }
 
 .hero-01 .hero-item2 {
-  background: url("../images/slider-02.jpg") no-repeat center;
+  background: url("..https://trxizaz.github.io/cush/slider-02.jpg") no-repeat center;
   box-shadow: inset 0 0 0 2000px rgba(250, 250, 250, 0.8);
 }
 
 .hero-01 .hero-item3 {
-  background: url("../images/slider-03.jpg") no-repeat center;
+  background: url("..https://trxizaz.github.io/cush/slider-03.jpg") no-repeat center;
   box-shadow: inset 0 0 0 2000px rgba(250, 250, 250, 0.8);
 }
 
@@ -848,7 +848,7 @@ canvas.particles-js-canvas-el {
           HERO-04
 -------------------------*/
 .hero-04 {
-  background: url("../images/hero-04.jpg") no-repeat;
+  background: url("..https://trxizaz.github.io/cush/hero-04.jpg") no-repeat;
   background-size: cover;
 }
 
@@ -860,7 +860,7 @@ canvas.particles-js-canvas-el {
           HERO-05
 -------------------------*/
 .hero-05 {
-  background: url("../images/snow-bg.jpg") no-repeat center;
+  background: url("..https://trxizaz.github.io/cush/snow-bg.jpg") no-repeat center;
   background-size: cover;
 }
 
@@ -921,7 +921,7 @@ canvas.particles-js-canvas-el {
           HERO-06
 -------------------------*/
 .hero-06 {
-  background: url("../images/home-bg-2.jpg") no-repeat;
+  background: url("..https://trxizaz.github.io/cush/home-bg-2.jpg") no-repeat;
   background-size: cover;
   box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.8);
 }
@@ -2114,7 +2114,7 @@ canvas.particles-js-canvas-el {
 }
 
 .arshia-dark .hero-04 {
-  background: url("../images/hero-004.jpg") no-repeat;
+  background: url("..https://trxizaz.github.io/cush/hero-004.jpg") no-repeat;
   background-size: cover;
 }
 
